@@ -1,0 +1,16 @@
+<form action="//formspree.io/{{ site.email }}" method="POST">
+  <div class="fields">
+    <div class="field half">
+      <input type="text" name="name" id="name" placeholder="Nom" />
+    </div>
+    <div class="field half">
+      <input type="email" name="_replyto" id="email" placeholder="Courriel" />
+    </div>
+    <div class="field">
+      <textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+    </div>
+  </div>
+  <ul class="actions">
+    <li><input type="submit" value="Envoyer" class="button primary" /></li>
+  </ul>
+</form>
