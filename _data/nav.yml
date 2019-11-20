@@ -1,0 +1,18 @@
+- name: Accueil
+  path: index.html
+  section_id: home
+- name: Produits
+  path: index.html#products
+  section_id: services
+- name: Services
+  path: index.html#services
+  section_id: services
+- name: À propos
+  path: index.html#about
+  section_id: about
+- name: Contact
+  path: contact.html
+  section_id: contact
+- name: Carnet de labo
+  path: blog/
+  section_id: blog

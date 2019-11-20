@@ -1,0 +1,25 @@
+<div class='links'>
+  <h3>Catégories</h3>
+  <ul>
+    {% for cat in site.categories %}
+      <li><a href="#">{{cat | first | capitalize}}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<div class='links'>
+  <h3>Billets récents</h3>
+  <ul>
+    {% for post in site.posts %}
+      {% if forloop.index > 6 %}
+        {% break %}
+      {% endif %}
+      <li><a href="{{post.url}}">{{post.title | capitalize}}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<div class='links'>
+  <h3>Flux</h3>
+  <ul>
+    <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"><i class='fa fa-rss'></i> RSS</a></li>
+  </ul>
+</div>
