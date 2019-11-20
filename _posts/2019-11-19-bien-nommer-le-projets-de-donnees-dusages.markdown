@@ -30,8 +30,7 @@ Je rappelle que cette réflexion s’applique aux données d’usage, pas néces
 
 Si on utilise ces deux axes pour créer une matrice, on arrive à un système de classement des projets de données qui prend la forme suivante:
 
-// matrice
-
+![](/blog/images/matrice.png)
 
 Dans la matrice, chaque quadrant correspond donc à différents types de projets. Quelques notes sur chaque quadrant suivent.
 
