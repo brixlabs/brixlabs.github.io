@@ -1,5 +1,7 @@
 ---
 # The front matter is required, even it's empty
+sitemap:
+  exclude: 'yes'
 ---
 
 @import "modernizr.foundation.js"

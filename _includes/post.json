@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+	{
+		"@context":"http://schema.org",
+		"@type": "BlogPosting",
+    {% for image in page.images %}
+      "image": "{{site.url}}/{{image}}",
+    {% endfor %}
+		"url": "{{site.url}}{{page.url}}",
+		"headline": "{{page.title}}",
+		"alternativeHeadline": "{{page.title}}",
+		"dateCreated": "{{page.date | date: "%Y-%m-%dT%H:%m:%S" }}",
+		"datePublished": "{{page.date | date: "%Y-%m-%dT%H:%m:%S" }}",
+		"dateModified": "{{page.date | date: "%Y-%m-%dT%H:%m:%S" }}",
+		"inLanguage": "fr-CA",
+		"isFamilyFriendly": "true",
+		"copyrightYear": "{{site.time | date: "%Y"}}",
+		"copyrightHolder": "{{site.name}}",
+		"author": {
+			"@type": "Person",
+			"name": "{{page.author}}",
+		},
+		"mainEntityOfPage": "True",
+		"keywords": [{% for cat in page.categories %}
+        "{{cat}}"{% unless forloop.last %}, {% endunless %}
+		{% endfor %}],
+		"articleBody": "{{page.excerpt}}"
+	}
+</script>

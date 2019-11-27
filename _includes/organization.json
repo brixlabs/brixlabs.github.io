@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "url": "{{ site.url }}",
+  "logo": "{{ "/images/logo-brix.png" | preprend site.baseurl | prepend: site.url }}",
+  "contactPoint": [
+    { "@type": "ContactPoint",
+      "email": "{{ site.email }}",
+      "contactType": "customer service",
+      "areaServed": [
+        "US",
+        "CA",
+        "FR"
+      ],
+      "availableLanguage": [
+        "English",
+        "French"
+      ]
+    },
+    { "@type": "ContactPoint",
+      "email": "{{ site.email }}",
+      "contactType": "sales",
+      "areaServed": [
+        "US",
+        "CA",
+        "FR"
+      ],
+      "availableLanguage": [
+        "English",
+        "French"
+      ]
+    }
+  ]
+}
