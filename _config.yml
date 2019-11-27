@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   profit du numérique pour commercialiser leurs offres. Elle se spécialise dans
   les approches qui s’appuient sur la création ou l’utilisation de données.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brixlabs.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.brixlabs.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jekyll # TODO
 slogan: Spécialiste des données
