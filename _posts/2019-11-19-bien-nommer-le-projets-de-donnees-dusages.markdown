@@ -13,7 +13,7 @@ excerpt:
 > Et les mots pour le dire arrivent aisément.  
 > – Nicolas Boileau
 
-Ça fait plus de dix ans que je m’intéresse aux métadonnées descriptives des contenus culturels. Depuis trois ans, je travaille également à exploiter les données d’usages associés aux consommateurs de produits culturels, non seulement pour mieux commercialiser ces derniers, mais également pour aider à la prise de décision dans les organisations.
+Ça fait plus de dix ans que je m’intéresse aux métadonnées descriptives des contenus culturels. Depuis trois ans, je travaille également à exploiter les données d’usages associées aux consommateurs de produits culturels, non seulement pour mieux commercialiser ces derniers, mais également pour aider à la prise de décision dans les organisations.
 
 L’intérêt pour ces pratiques est croissant. Les organisations culturelles prennent progressivement le virage numérique et sont de plus en plus exposées aux données et à leur potentiel.
 
@@ -36,7 +36,7 @@ Dans la matrice, chaque quadrant correspond donc à différents types de projets
 
 ##### Exploration et visualisation
 
-On veut utiliser les données pour nous aider à apprendre des choses, ou simplement à mieux formuler des questions. Ce sont des projets qui exploitent les visualisations interactives ou exploratoires, des analyses statistiques, des tableaux de données génériques. On ne sait pas encore ce qu’on cherche, mais on pense que les données peuvent nous aider le trouver.
+On veut utiliser les données pour nous aider à apprendre des choses, ou simplement à mieux formuler des questions. Ce sont des projets qui exploitent les visualisations interactives ou exploratoires, des analyses statistiques, des tableaux de données génériques. On ne sait pas encore ce qu’on cherche, mais on pense que les données peuvent nous aider à le trouver.
 
 ##### Automatisation
 
@@ -44,7 +44,7 @@ On sait que nos données sont utiles pour poser des actions, et on a la convicti
 
 ##### Tableaux de bord
 
-On s’intéresse à des métriques de façon récurrente, dans un format adapté à l’utilisation qu’on veut en faire. C’est assez classique, mais efficace. Il peut s’agir de tableaux de bord présentant des ventes en temps réel ou sur une période donnée, des indicateurs associés actions de marketing (taux d’ouverture ou de clics dans une infolettre), le taux de renouvellement (ou d’attrition) des abonnés, l’achalandage sur le site web… Ces données sont parfois tirées de plusieurs sources différentes et agrégées dans un outil spécifique (à la Google Analytics ou DashThis).
+On s’intéresse à des métriques de façon récurrente, dans un format adapté à l’utilisation qu’on veut en faire. C’est assez classique, mais efficace. Il peut s’agir de tableaux de bord présentant des ventes en temps réel ou sur une période donnée, des indicateurs associés à des actions de marketing (taux d’ouverture ou de clics dans une infolettre), le taux de renouvellement (ou d’attrition) des abonnés, l’achalandage sur le site web... Ces données sont parfois tirées de plusieurs sources différentes et agrégées dans un outil spécifique (à la Google Analytics ou DashThis).
 
 ##### Expérimentation et tests
 
