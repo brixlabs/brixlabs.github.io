@@ -5,6 +5,7 @@ date:   2019-11-19 17:27:00
 categories: Données
 author: Christian Roy
 images:
+sharing_image: /blog/images/matrice.png
 excerpt:
   Je constate toutefois qu’au-delà du «buzzword» et de l’intérêt général pour les «données», plusieurs ont du mal à cerner clairement ce qu’ils peuvent faire, concrètement, avec ces données. Je constate également qu’en mettant tous les projets «de données» dans le même lot, on crée de la confusion.
 ---

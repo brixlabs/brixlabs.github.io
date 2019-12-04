@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "url": "{{ site.url }}",
+  "name": "{{ site.company_name }}"
   "logo": "{{ "/images/logo-brix.png" | preprend site.baseurl | prepend: site.url }}",
   "contactPoint": [
     { "@type": "ContactPoint",
